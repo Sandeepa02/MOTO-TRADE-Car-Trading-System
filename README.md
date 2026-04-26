@@ -1,4 +1,4 @@
-🚗 Moto Trade – Premium Vehicle Marketplace
+#🚗 Moto Trade – Premium Vehicle Marketplace
 
 Moto Trade is a full-stack web application designed as a modern vehicle marketplace where users can explore, buy, and sell vehicles, spare parts, and modifications.
 It combines a clean UI, role-based dashboards, and AI-powered recommendations to enhance user experience.
@@ -73,44 +73,26 @@ AI	Google Gemini API
 Tools	Axios, jsPDF
 
 📁 Project Structure
-
-MOTO TRADE/
-
-├── Frontend/
-
-│   ├── src/
-
-│   │   ├── components/
-
-│   │   ├── pages/
-
-│   │   ├── context/
-
-│   │   ├── config/
-
-│   │   └── utils/
-
-│   └── package.json
-
-│
-
-├── Backend/
-
-│   ├── config/
-
-│   ├── controllers/
-
-│   ├── models/
-
-│   ├── routes/
-
-│   ├── middleware/
-
-│   └── package.json
-
-│
-
-└── README.md
+    
+    MOTO TRADE/
+    ├── Frontend/
+    │   ├── src/
+    │   │   ├── components/
+    │   │   ├── pages/
+    │   │   ├── context/
+    │   │   ├── config/
+    │   │   └── utils/
+    │   └── package.json
+    │
+    ├── Backend/
+    │   ├── config/
+    │   ├── controllers/
+    │   ├── models/
+    │   ├── routes/
+    │   ├── middleware/
+    │   └── package.json
+    │
+    └── README.md
 
 
 ⚙️ Setup Instructions
