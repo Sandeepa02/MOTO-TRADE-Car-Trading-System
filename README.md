@@ -118,30 +118,30 @@ Tools	Axios, jsPDF
 Create .env in Backend:
 
 
-MONGODB_URI=mongodb://127.0.0.1:27017/moto-trade
-
-JWT_SECRET=your_secret_key
-
-FRONTEND_URL=http://localhost:5173
+    MONGODB_URI=mongodb://127.0.0.1:27017/moto-trade
+    
+    JWT_SECRET=your_secret_key
+    
+    FRONTEND_URL=http://localhost:5173
 
 3️⃣ Seed Database (Optional)
 
-npm run seed
+    npm run seed
 
 4️⃣ Create Admin User
 
-npm run create-admin
+    npm run create-admin
 
 5️⃣ Run the Project
 
 # Backend
 
-npm run dev
+    npm run dev
 
 
 # Frontend
 
-npm run dev
+    npm run dev
 
 🔗 API Overview
 
