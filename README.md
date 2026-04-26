@@ -4,7 +4,9 @@ Moto Trade is a full-stack web application designed as a modern vehicle marketpl
 It combines a clean UI, role-based dashboards, and AI-powered recommendations to enhance user experience.
 
 🌟 Key Features
+
 🌐 Public Access
+
 Browse branded cars and second-hand vehicles
 Explore spare parts and modifications
 Advanced filtering (price, fuel type, category, etc.)
