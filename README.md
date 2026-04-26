@@ -1,4 +1,4 @@
-#🚗 Moto Trade – Premium Vehicle Marketplace
+# MOTO-TRADE-Car-Trading-System
 
 Moto Trade is a full-stack web application designed as a modern vehicle marketplace where users can explore, buy, and sell vehicles, spare parts, and modifications.
 It combines a clean UI, role-based dashboards, and AI-powered recommendations to enhance user experience.
