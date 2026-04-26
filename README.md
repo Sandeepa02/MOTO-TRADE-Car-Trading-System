@@ -28,11 +28,8 @@ Detailed vehicle pages
 👤 User profile with:
 
   Purchase history
-  
   Notifications
-  
   Payments
-  
   Activity tracking
 
 🧑‍💼 Seller Dashboard
@@ -48,29 +45,21 @@ Full system control with separate UI
 
 Manage:
 
-  Vehicles
-  
-  Spare parts
-  
-  Modifications
+   Vehicles
+   Spare parts
+   Modifications
   
   Monitor payments & system activity
 
 🧱 Tech Stack
 
-Layer	Technology
-
-Frontend	React 18, Vite, Tailwind CSS
-
-Backend	Node.js, Express
-
-Database	MongoDB (Mongoose)
-
-Auth	JWT, bcrypt
-
-AI	Google Gemini API
-
-Tools	Axios, jsPDF
+  Layer	Technology
+  Frontend	React 18, Vite, Tailwind CSS
+  Backend	Node.js, Express
+  Database	MongoDB (Mongoose)
+  Auth	JWT, bcrypt
+  AI	Google Gemini API
+  Tools	Axios, jsPDF
 
 📁 Project Structure
     
@@ -147,22 +136,16 @@ Create .env in Backend:
 
 Method	Endpoint	Description
 
-GET	/api/health	Server status
-
-POST	/api/auth/register	Register user
-
-POST	/api/auth/login	Login
-
-GET	/api/vehicles	Get all vehicles
-
-GET	/api/vehicles/:id	Vehicle details
+  GET	/api/health	Server status
+  POST	/api/auth/register	Register user
+  POST	/api/auth/login	Login
+  GET	/api/vehicles	Get all vehicles
+  GET	/api/vehicles/:id	Vehicle details
 
 🤖 AI Integration
 
 Powered by Google Gemini API
-
 Provides personalized vehicle recommendations
-
 Uses user preferences + internal dataset
 
 🔐 Security Notes
