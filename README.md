@@ -39,6 +39,7 @@ Database	MongoDB (Mongoose)
 Auth	JWT, bcrypt
 AI	Google Gemini API
 Tools	Axios, jsPDF
+
 📁 Project Structure
 MOTO TRADE/
 ├── Frontend/
@@ -59,6 +60,7 @@ MOTO TRADE/
 │   └── package.json
 │
 └── README.md
+
 ⚙️ Setup Instructions
 1️⃣ Install Dependencies
 # Backend
