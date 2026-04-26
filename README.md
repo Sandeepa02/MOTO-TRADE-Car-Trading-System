@@ -10,39 +10,70 @@ It combines a clean UI, role-based dashboards, and AI-powered recommendations to
 Browse branded cars and second-hand vehicles
 Explore spare parts and modifications
 Advanced filtering (price, fuel type, category, etc.)
+
 Detailed vehicle pages
+
 👤 Authenticated Users
+
 🔐 Secure JWT authentication
+
 🤖 AI-powered vehicle suggestions (Google Gemini)
+
 🛒 Cart & checkout (bank transfer style)
+
 💬 Buyer–seller chat system (localStorage-based)
+
 ⭐ Reviews, ratings & complaint system
+
 👤 User profile with:
+
 Purchase history
+
 Notifications
+
 Payments
+
 Activity tracking
+
 🧑‍💼 Seller Dashboard
+
 Add and manage listings
+
 Handle second-hand vehicle sales
 Track user interactions
+
 🛠️ Admin Panel
+
 Full system control with separate UI
+
 Manage:
+
 Vehicles
+
 Spare parts
+
 Modifications
+
 Monitor payments & system activity
+
 🧱 Tech Stack
+
 Layer	Technology
+
 Frontend	React 18, Vite, Tailwind CSS
+
 Backend	Node.js, Express
+
 Database	MongoDB (Mongoose)
+
 Auth	JWT, bcrypt
+
 AI	Google Gemini API
+
 Tools	Axios, jsPDF
 
 📁 Project Structure
+
 MOTO TRADE/
 ├── Frontend/
 │   ├── src/
