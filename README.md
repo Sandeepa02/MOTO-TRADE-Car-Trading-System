@@ -101,16 +101,16 @@ Tools	Axios, jsPDF
 
 # Backend
 
-cd Backend
-
-npm install
+    cd Backend
+    
+    npm install
 
 
 # Frontend
 
-cd Frontend
-
-npm install
+    cd Frontend
+    
+    npm install
 
 2️⃣ Configure Environment Variables
 
