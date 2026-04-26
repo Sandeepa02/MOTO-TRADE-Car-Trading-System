@@ -28,8 +28,11 @@ Detailed vehicle pages
 👤 User profile with:
 
   Purchase history
+  
   Notifications
+  
   Payments
+  
   Activity tracking
 
 🧑‍💼 Seller Dashboard
@@ -53,13 +56,13 @@ Manage:
 
 🧱 Tech Stack
 
-  Layer	Technology
-  Frontend	React 18, Vite, Tailwind CSS
-  Backend	Node.js, Express
-  Database	MongoDB (Mongoose)
-  Auth	JWT, bcrypt
-  AI	Google Gemini API
-  Tools	Axios, jsPDF
+  Layer	Technology,
+  Frontend	React 18, Vite, Tailwind CSS,
+  Backend	Node.js, Express,
+  Database	MongoDB (Mongoose),
+  Auth	JWT, bcrypt,
+  AI	Google Gemini API,
+  Tools	Axios, jsPDF.
 
 📁 Project Structure
     
@@ -86,7 +89,7 @@ Manage:
 
 ⚙️ Setup Instructions
 
-1️⃣ Install Dependencies
+1️. Install Dependencies
 
 # Backend
 
@@ -101,11 +104,9 @@ Manage:
     
     npm install
 
-2️⃣ Configure Environment Variables
-
+2️. Configure Environment Variables
 
 Create .env in Backend:
-
 
     MONGODB_URI=mongodb://127.0.0.1:27017/moto-trade
     
@@ -113,15 +114,15 @@ Create .env in Backend:
     
     FRONTEND_URL=http://localhost:5173
 
-3️⃣ Seed Database (Optional)
+3️. Seed Database (Optional)
 
     npm run seed
 
-4️⃣ Create Admin User
+4️. Create Admin User
 
     npm run create-admin
 
-5️⃣ Run the Project
+5️. Run the Project
 
 # Backend
 
@@ -137,16 +138,20 @@ Create .env in Backend:
 Method	Endpoint	Description
 
   GET	/api/health	Server status
+  
   POST	/api/auth/register	Register user
+  
   POST	/api/auth/login	Login
+  
   GET	/api/vehicles	Get all vehicles
+  
   GET	/api/vehicles/:id	Vehicle details
 
 🤖 AI Integration
 
-Powered by Google Gemini API
-Provides personalized vehicle recommendations
-Uses user preferences + internal dataset
+Powered by Google Gemini API.
+Provides personalized vehicle recommendations.
+Uses user preferences + internal dataset.
 
 🔐 Security Notes
 
