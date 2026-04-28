@@ -149,7 +149,7 @@ Method	Endpoint	Description
 
 🤖 AI Integration
 
-Powered by Google Gemini API.
+Powered by OpenRouter API.
 Provides personalized vehicle recommendations.
 Uses user preferences + internal dataset.
 
@@ -166,10 +166,6 @@ Online payment gateway integration
 Real-time chat (WebSockets)
 Image upload via cloud storage
 Advanced analytics dashboard
-
-📜 License
-
-This project is licensed under the ISC License.
 
 👨‍💻 Author
 
