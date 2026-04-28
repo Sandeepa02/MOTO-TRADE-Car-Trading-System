@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Moto Trade icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a1459"/>
+      <stop offset="100%" stop-color="#5b22b5"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <circle cx="43" cy="86" r="11" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <circle cx="85" cy="86" r="11" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <path d="M28 69h72l-9 15h-8l-2-6H47l-2 6h-8z" fill="#ffffff"/>
+  <path d="M36 50h18l10 13H44z" fill="#ffffff" opacity=".95"/>
+  <rect x="26" y="28" width="76" height="9" rx="4.5" fill="#ffffff"/>
+  <path d="M58 28v41M70 28v41" stroke="#5b22b5" stroke-width="7" stroke-linecap="round"/>
+</svg>

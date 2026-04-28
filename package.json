@@ -1,0 +1,18 @@
+{
+  "name": "moto-trade-fullstack",
+  "version": "1.0.0",
+  "description": "Moto Trade - Full Stack Vehicle Marketplace",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd \"MOTO TRADE\" && npm run dev",
+    "install-all": "npm install && cd server && npm install && cd ../MOTO TRADE && npm install",
+    "seed": "cd server && npm run seed"
+  },
+  "keywords": ["react", "express", "mongodb", "vehicles", "marketplace"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
