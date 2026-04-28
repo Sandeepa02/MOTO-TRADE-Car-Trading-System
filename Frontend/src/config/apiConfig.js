@@ -1,7 +1,7 @@
 // API Configuration for Moto Trade AI Suggestion
 export const API_CONFIG = {
   // Get your API key from: https://openrouter.ai/keys
-  OPENROUTER_API_KEY: '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',
+  OPENROUTER_API_KEY: 'past vaild API',
 
   // OpenRouter API endpoint (OpenAI-compatible)
   OPENROUTER_API_URL: 'https://openrouter.ai/api/v1/chat/completions',
